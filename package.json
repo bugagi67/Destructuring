@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "prepare": "husky",
     "lint": "eslint ."
   },
   "author": "Dmitry Greshnov",
